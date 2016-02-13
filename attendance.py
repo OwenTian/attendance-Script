@@ -291,12 +291,6 @@ def make_copies(beg, inter, adv, master):
         shutil.copyfile(ADVANCED_IN, os.path.join(directory, ADVANCED_IN))       
 
 
-# function that sorts csv files alphabetically
-
-
-# function that sorts csv files by paid, not paid
-
-
 
 #####################################################################
 
