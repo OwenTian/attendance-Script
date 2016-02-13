@@ -1,0 +1,2 @@
+# miXxAttendance
+python attendance-taker
